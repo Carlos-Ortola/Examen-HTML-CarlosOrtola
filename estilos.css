@@ -1,0 +1,37 @@
+ p#acceso{
+      text-align: right;
+ }
+ ul{
+     display: inline;
+
+    }
+ img#img1{
+     float: left;
+ }
+ img#img2{
+     float: right;
+     width: 250px;
+     height:220px;
+ }
+ img#img3{
+     text-align: center
+     ;
+ }
+ main{
+     margin-left: 10%;
+ }
+ iframe#mapa{
+     float: right;
+     margin-right: 30px
+ }
+ footer{
+     background-color: aqua;
+ }
+ iframe#WebAbastos{
+     width: 3cm;;
+     height: 5cm;
+ }
+ h3{
+     color: blue;
+ }
+ 
